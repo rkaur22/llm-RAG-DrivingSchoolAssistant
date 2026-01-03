@@ -101,14 +101,7 @@ This will start:
 ├── .env.example                    # Environment variables template
 ├── data/                           # FAQ data files
 │   └── faq.json                    # FAQ documents
-├── grafana/                        # Grafana configuration
-│   └── provisioning/
-│       ├── datasources/
-│       │   └── postgres.yml        # PostgreSQL data source
-│       └── dashboards/
-│           ├── provider.yml        # Dashboard provider config
-│           └── json/
-│               └── faq-dashboard.json  # Main dashboard
+├── grafana/                        # Grafana 
 └── README.md                       # This file
 ```
 
@@ -119,7 +112,7 @@ This will start:
 ```bash
 # Create virtual environment
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
@@ -127,7 +120,6 @@ pip install -r requirements.txt
 # Set environment variables
 export GOOGLE_API_KEY=your_key
 export POSTGRES_HOST=localhost
-# ... other env vars
 
 # Run Streamlit
 streamlit run app.py
