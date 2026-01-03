@@ -1,0 +1,100 @@
+[
+  {
+    "id": "FAQ01",
+    "category": "Introduction",
+    "question": "What is Fahrschule Galaxy and where is it located?",
+    "answer": "Fahrschule Galaxy is a driving school in Hamburg that offers both theory and practical driving lessons for car and motorcycle licenses. The school is located at Hasselbrookstraße 152a, Hamburg, and is easily accessible via S-Bahn public transport.",
+    "keywords": ["Driving School", "Hamburg", "Location"]
+  },
+  {
+    "id": "FAQ02",
+    "category": "License Classes",
+    "question": "What driving license classes are offered?",
+    "answer": "The school provides training for Car (Class B), Car with trailer (Class BE), and Motorcycle (Classes A, A2, A1, and AM).",
+    "keywords": ["License Classes", "Class B", "Class BE", "Class A"]
+  },
+  {
+    "id": "FAQ03",
+    "category": "Languages",
+    "question": "In which languages are lessons and exams available?",
+    "answer": "Theory classes are mainly in German; English may be available depending on availability. The theory exam can be taken in 13 languages including English. Practical lessons are offered in German, English, Russian, Hindi, Urdu, Punjabi, and Arabic. The practical exam is conducted in German only.",
+    "keywords": ["Languages", "Theory", "Practical", "Exam"]
+  },
+  {
+    "id": "FAQ04",
+    "category": "Registration",
+    "question": "How do I register for driving lessons?",
+    "answer": "Registration must be done in person at the Fahrschule Galaxy office during opening hours. Required documents include a valid ID or passport, biometric passport photo(not older than last 6 months), first aid course certificate, vision test certificate (not older than 2 years), and license application form submitted to Hamburg authorities, LBV. No separate registration for theory lessons is required. The opening hours are Monday to Thursday from 10:00 to 13:00 and Monday to Friday from 16:00 to 18:30.",
+    "keywords": ["Registration", "Documents", "Office"]
+  },
+  {
+    "id": "FAQ05",
+    "category": "Registration",
+    "question": "Can I transfer from another driving school?",
+    "answer": "Yes, you can transfer your registration and progress to Fahrschule Galaxy. Bring your Ausbildungsnachweis from your previous driving school for verification. Any completed theory lessons and tests will be credited. Practical lessons may need to be retaken based on your skill level. Ensure all required documents are provided during registration including your ID or Passport.",
+    "keywords": ["Transfer", "Driving School Change"]
+  },
+  {
+    "id": "FAQ06",
+    "category": "Opening Hours",
+    "question": "What are the opening hours?",
+    "answer": "Morning: Monday to Thursday, 10:00 – 13:00. Evening: Monday to Friday, 16:00 – 18:30.",
+    "keywords": ["Opening Hours", "Office Hours"]
+  },
+  {
+    "id": "FAQ07",
+    "category": "Duration",
+    "question": "How long does it take to complete a driving license?",
+    "answer": "The duration depends on individual learning pace. Most students complete a Class B license within a few weeks to a few months.",
+    "keywords": ["Duration", "Class B", "Time"]
+  },
+  {
+    "id": "FAQ08",
+    "category": "Course Type",
+    "question": "Are intensive courses available?",
+    "answer": "Yes, Crash course is available for completing theory training in a short period. Practical training still depends on your learning speed.",
+    "keywords": ["Intensive Course", "Crash Course"]
+  },
+  {
+    "id": "FAQ09",
+    "category": "Practical Training",
+    "question": "How many practical lessons are required?",
+    "answer": "The student must complete 12 mandatory special lessons (Sonderfahrten) if applying for very first driving license in germany. Additional lessons are scheduled based on driving skill. If someone is converting the driving license from other country's license to german license, then one has to personally go to LBV after booking an appointment under lbv-termine.de with all the required documents. These applicants are Umschreiber and they don't have to undertake any Sonderfahrten but only practice lessons till they are prepared for the practical exam.",
+    "keywords": ["Practical Lessons", "Sonderfahrten", "Automatic Training"]
+  },
+  {
+    "id": "FAQ10",
+    "category": "Training Vehicles",
+    "question": "What vehicles are used for training?",
+    "answer": "Training is conducted using modern vehicles, manual, automatic cars depending upon which class of license one has chosen. Specific models may vary.",
+    "keywords": ["Vehicles", "Training Car", "Fleet"]
+  },
+  {
+    "id": "FAQ11",
+    "category": "Instructors",
+    "question": "Are female instructors available?",
+    "answer": "Currently, Fahrschule Galaxy does not have female instructors.",
+    "keywords": ["Female Instructor", "Instructor Choice"]
+  },
+  {
+    "id": "FAQ12",
+    "category": "Costs",
+    "question": "How much does a driving license cost?",
+    "answer": "Costs vary depending on your pace and number of lessons: Registration fee: €400. Practical lesson: €65 per 45 minutes. Theory exam (TÜV): approx. €24.49. Practical exam: approx. €129.75. Total cost includes registration, theory and practical lessons, exam fees, and Hamburg administrative charges.\nPrices for Vorstellung Theory and Practical exams are 60 Euros and 300 Euros respctively and these are additional costs to be paid to the driving school.",
+    "keywords": ["Costs", "Fees", "Hamburg"]
+  },
+  {
+    "id": "FAQ13",
+    "category": "Payments",
+    "question": "How are payments made?",
+    "answer": "Cash payments are preferred for registration, exam fees, and driving lessons.",
+    "keywords": ["Payment Plan", "Fees"]
+  },
+  {
+    "id": "FAQ14",
+    "category": "Exams",
+    "question": "Is there a waiting time for exams?",
+    "answer": "Yes, there may be waiting times due to high demand at TÜV. Fahrschule Galaxy assists in booking exams as early as possible. Before appearing in the theroy exam, students must complete all theory lessons(not mandatory for Umschreiber) and pass a mock test at the school. Practical exam scheduling depends on individual readiness and instructor assessment.",
+    "keywords": ["Exam Waiting Time", "TÜV", "Scheduling"]
+  }
+]

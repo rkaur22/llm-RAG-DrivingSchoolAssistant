@@ -58,7 +58,7 @@ You can find the data in [`data/faq.csv`](data/data.csv).
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone llm-RAG-DrivingSchoolAssistant.git
 cd llm-RAG-DrivingSchoolAssistant
 ```
 
