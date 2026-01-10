@@ -162,7 +162,7 @@ SELECT
 FROM feedback;
 ```
 <p align="center">
-  <img src="images/grafana.jpg">
+  <img src="images/grafana.png">
 </p>
 
 ## 🔑 Key Technologies
