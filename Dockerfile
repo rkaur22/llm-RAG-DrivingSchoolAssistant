@@ -24,7 +24,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy FAQ data
-COPY . .
+COPY app/ .
 COPY data/faq.json data/faq.json
 
 EXPOSE 8501

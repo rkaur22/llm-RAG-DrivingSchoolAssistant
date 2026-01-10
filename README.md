@@ -161,7 +161,9 @@ SELECT
   SUM(CASE WHEN feedback < 0 THEN 1 ELSE 0 END) as thumbs_down
 FROM feedback;
 ```
-
+<p align="center">
+  <img src="images/grafana.jpg">
+</p>
 
 ## 🔑 Key Technologies
 
